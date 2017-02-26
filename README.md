@@ -11,7 +11,7 @@ For Ques.1
 open terminal inside project folder
 ```
 $ cd ques1
-g++ ques1 -o firstQuestion
+g++ ques1.cpp -o firstQuestion
 ./firstQuestion
 ```
 
@@ -19,7 +19,7 @@ For Ques.2
 open terminal inside project folder
 ```
 $ cd ques2
-g++ ques2 -o secondQuestion
+g++ ques2.cpp -o secondQuestion
 ./secondQuestion
 ```
 ## Inside

@@ -26,8 +26,9 @@ g++ ques2 -o secondQuestion
 - Contains the implementation for a couple matching scenario based on some realistic condition
 -Class diagram 
 -documentaion as html file
-```cd documentation
-    firefox index.html
+```
+cd documentation
+firefox index.html
 ```
 
 ## Tools

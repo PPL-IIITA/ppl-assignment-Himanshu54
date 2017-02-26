@@ -24,8 +24,8 @@ g++ ques2 -o secondQuestion
 ```
 ## Inside
 - Contains the implementation for a couple matching scenario based on some realistic condition
--Class diagram 
--documentaion as html file
+- Class diagram 
+- documentaion as html file
 ```
 cd documentation
 firefox index.html
@@ -37,13 +37,13 @@ firefox index.html
 
 ## Contribute
 
-Contributions are always welcome not publicly though!
-Please read the [contribution guidelines](contributing.md) first.
+- Contributions are always welcome not publicly though!
+- Please read the [contribution guidelines](contributing.md) first.
 
 
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, Himanshu Gusain has waived all copyright and related or neighboring rights to this work.
+- To the extent possible under law, Himanshu Gusain has waived all copyright and related or neighboring rights to this work.
 

@@ -20,7 +20,7 @@ open terminal inside project folder
 ```
 $ cd ques2
 g++ ques2 -o secondQuestion
-./firstQuestion
+./secondQuestion
 ```
 ## Inside
 - Contains the implementation for a couple matching scenario based on some realistic condition

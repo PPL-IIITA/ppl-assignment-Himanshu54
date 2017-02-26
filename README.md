@@ -34,6 +34,8 @@ firefox index.html
 ## Tools
 - GNU g++
 - with support for C++11 standards 
+- IDE - Eclipse Version: 3.8.1
+- OS: Ubuntu 16.10
 
 ## Contribute
 
